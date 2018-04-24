@@ -1,0 +1,9 @@
+databaseclass=grupouno.conexion.Conexion_mySQL
+jdbc=jdbc:mysql://
+driver=com.mysql.jdbc.Driver
+host=localhost:3306
+database=peluqueria
+username=root
+password=
+options=charSet=LATIN1
+mostrarpropierties=si
